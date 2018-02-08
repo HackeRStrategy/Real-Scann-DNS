@@ -1,4 +1,4 @@
-
+1
 ♠ ESCANEO DE PÁGINAS WEB-TERMUX
 
    Author: Real Strategy [RS] - Controlando el mundo.
@@ -19,7 +19,7 @@ cd Real-Scann-DNS
 
 chmod + x Real-DNS
 
-1.
+
 ./Real-DNS
 
 ♠MODO FACIL:
