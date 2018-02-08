@@ -16,8 +16,7 @@ Es un simple script que muestra información de sitios web PUERTOS,HOST,DNS,IP,H
 
 cd Real-Scann-DNS
 
-chmod +x Real-Dominio
-
+chmod + x Real-DNS
 ./Real-DNS
 
 ♠MODO FACIL:
