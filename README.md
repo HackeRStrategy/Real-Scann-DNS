@@ -8,7 +8,7 @@ Es un simple script que muestra información de sitios web PUERTOS,HOST,DNS,IP,H
 
 ♠ DESCARGAS:
 
-• Github:
+• Github:https://github.com/HackeRStrategy/Real-Scann-DNS.git
 
 • Link del video: https://youtu.be/gmSarteL5jo 
 
